@@ -18,6 +18,7 @@ I'm a Computer Vision researcher, I'm interested in many aspects of Computer Vis
 - 🇯🇵 Japanese language
 - 📚 Digital dictionaries
 - 🎥 Cinematography and video editing
+- 👨‍💻 Embedded computing
 
 <!--
 **mukoan/mukoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
