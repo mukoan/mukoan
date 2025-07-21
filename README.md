@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🚀 I'm currently working on lots of different things, check out my website at [lyndonhill.com](http://lyndonhill.com)
+- 🚀 I'm currently working on lots of different things, check out my website at [lyndonhill.com](https://lyndonhill.com)
 - 📫 Contact me: see my website for my email address
 
 ### Research interests 🔭
